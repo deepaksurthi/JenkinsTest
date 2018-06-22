@@ -6,10 +6,6 @@ public class HelloJenkins
 		{
 			System.out.println("Genkin Test " + i );
 		}
-		
-		for(int i = 0 ; i < 5 ; i ++)
-		{
-			System.out.println("Deepak " + i);
-		}
+	
 	}
 }
